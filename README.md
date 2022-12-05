@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdebabrata&label=Profile%20views&color=1f83c1&style=plastic" alt="imdebabrata" /> </p>
 
+###Description:-
+A passionate MERN Stack developer. Keen on learning new technical skills.
+Good knowledge such as HTML, CSS, JavaScript, React, Redux, TypeScript,
+ExpressJS, and NodeJS. Seeking challenging opportunities to work with new
+technologies in website development.
+
 - 🔭 I’m looking for job **as SDE1 Role**
 
 - 🌱 I’m exploring **new technologies.**
@@ -17,7 +23,10 @@
 
 - 📫 How to reach me **debabratakgt@hotmail.com**
 
-- ⚡ I am interested **I enjoy to learn coding**
+### ⚡ My interest's :-
+* Android Modification(Rooting)
+* Listening to music
+* Travel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
