@@ -46,9 +46,9 @@ technologies in website development.
 ### 🔥 My contribution streak
 <!-- <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdebabrata&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="imdebabrata" /></div> -->
 
-![GitHub streak stats]([https://github-readme-streak-stats.herokuapp.com/?user=imdebabrata&theme=highcontrast](https://github-readme-stats.vercel.app/api/top-langs?username=imdebabrata&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=000000&locale=en&layout=compact)
+![GitHub most_use_language](https://github-readme-stats.vercel.app/api/top-langs?username=imdebabrata&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=000000&locale=en&layout=compact)
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=PankajkandpalL&show_icons=true](https://github-readme-stats.vercel.app/api?username=imdebabrata&show_icons=true&title_color=00bfff&text_color=ffffff&bg_color=000000&locale=en))  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imdebabrata&show_icons=true&title_color=00bfff&text_color=ffffff&bg_color=000000&locale=en)  
 
 <!-- <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdebabrata&show_icons=true&title_color=00bfff&text_color=ffffff&bg_color=000000&locale=en" alt="imdebabrata" /></div>
 <br> -->
