@@ -28,14 +28,15 @@ technologies in website development.
 * Listening to music
 * Travel
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imdebabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdebabrata" height="30" width="40" /></a>
 <a href="https://codesandbox.com/imdebabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="imdebabrata" height="30" width="40" /></a>
-<a href="https://fb.com/dattaismyname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dattaismyname" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/imdebabrata" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="imdebabrata" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/dattaismyname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dattaismyname" height="30" width="40" /></a>
 <a href="https://instagram.com/im.debabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.debabrata" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imdebabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imdebabrata" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imdebabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imdebabrata" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imdebabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imdebabrata" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
