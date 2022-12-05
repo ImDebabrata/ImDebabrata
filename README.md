@@ -45,7 +45,7 @@ technologies in website development.
 
 ### 🔥 My contribution streak
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdebabrata&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="imdebabrata" /></p>
-<br/>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdebabrata&show_icons=true&title_color=00bfff&text_color=ffffff&bg_color=000000&locale=en" alt="imdebabrata" /></p>
-<br/>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdebabrata&theme=highcontrast" alt="imdebabrata" /></p>
