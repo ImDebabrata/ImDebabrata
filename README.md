@@ -49,3 +49,5 @@ technologies in website development.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdebabrata&show_icons=true&title_color=00bfff&text_color=ffffff&bg_color=000000&locale=en" alt="imdebabrata" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdebabrata&theme=highcontrast" alt="imdebabrata" /></p>
+
+[![Made with love in India](https://camo.githubusercontent.com/28cd0cac34f81270a63b62d994db60a55c4c0feffc4eb3ba7ccfb0c1c02a8eeb/68747470733a2f2f6d616465776974686c6f76652e6e6f772e73682f696e3f68656172743d747275652674656d706c6174653d666f722d7468652d6261646765)](https://camo.githubusercontent.com/28cd0cac34f81270a63b62d994db60a55c4c0feffc4eb3ba7ccfb0c1c02a8eeb/68747470733a2f2f6d616465776974686c6f76652e6e6f772e73682f696e3f68656172743d747275652674656d706c6174653d666f722d7468652d6261646765)
