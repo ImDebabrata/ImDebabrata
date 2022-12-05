@@ -28,7 +28,7 @@ technologies in website development.
 * Listening to music
 * Travel
 
-<h3 align="left">📱Connect with me:-</h3>
+<h3 align="left">📱Social Handle:-</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imdebabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdebabrata" height="30" width="40" /></a>
 <a href="https://codesandbox.com/imdebabrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="imdebabrata" height="30" width="40" /></a>
