@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debabrata Datta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Debabrata Datta</h1>
 <h3 align="center">A passionate MERN Stack developer from India 🇮🇳</h3>
 
 ![logo](https://github.com/ImDebabrata/ImDebabrata/blob/main/banner.png)
