@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdebabrata&label=Profile%20views&color=1f83c1&style=plastic" alt="imdebabrata" /> </p>
 
-# About
+# About ->>
 A passionate MERN Stack developer. Keen on learning new technical skills.
 Good knowledge such as HTML, CSS, JavaScript, React, Redux, TypeScript,
 ExpressJS, and NodeJS. Seeking challenging opportunities to work with new
