@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Debabrata Datta</h1>
-<h3 align="center"> -: A passionate MERN Stack developer :- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" width="25"></h3>
+<h3 align="center">  A passionate MERN Stack developer  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" width="25"></h3>
 
 ![logo](https://github.com/ImDebabrata/ImDebabrata/blob/main/banner.png)
 
