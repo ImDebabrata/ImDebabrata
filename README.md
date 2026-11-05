@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Debabrata Datta
 **AI Developer @ erbrains** | Building production LLM applications & AI systems
 
+![logo](https://github.com/ImDebabrata/ImDebabrata/blob/main/banner.png)
+
 ## 🔭 Current Focus
 - **Applied AI at erbrains:** LLM application development, RAG systems, AI agent workflows
 - **Stack:** Python, LangChain, LlamaIndex, FastAPI, Vector Databases (Pinecone/Weaviate/pgvector)
@@ -20,7 +22,6 @@
 |---------|-------|------------|
 | **[Social Connect](https://github.com/ImDebabrata/social-connect-next)** | Next.js 15, TypeScript, Prisma, PostgreSQL, Socket.io, Docker | Full-stack social platform. **True optimistic updates w/ rollback** (React Query), cursor-based infinite feeds, real-time messaging via separate Socket.io microservice |
 | **[Highlight Saver Extension](https://github.com/ImDebabrata/highlight-saver-extension)** | TypeScript, Chrome Ext MV3, esbuild, Gemini API | Shadow-DOM UI injection, local-first storage, on-demand AI summaries |
-| **[Portfolio](https://github.com/ImDebabrata/imdebabrata.github.io)** | Next.js, Tailwind, Framer Motion | Personal portfolio showcasing project depth |
 
 > **Note:** AI projects from my work at **erbrains** are proprietary. This profile demonstrates the **engineering rigor** I bring to AI development — clean architecture, typed systems, caching strategies, and production-grade delivery.
 
